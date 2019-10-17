@@ -16,11 +16,12 @@ author: Tim Holzschuh
 baseurl: /cv/
 title: Tim Holzschuh's Resume
 name: Tim Holzschuh
-email: t.holzschuh@stud.uni-heidelberg.de
-email_full: mailto:youremail@me.com
-website: github.io/tholzschuh
+email: t.holzschuh
+email_full: t.holzschuh@stud.uni-heidelberg.de
+website: tholzschuh.github.io
 website_full: https://tholzschuh.github.io/
 github: tholzschuh
+stackexchange: https://math.stackexchange.com/users/499195/lush
 #twitter: twitter
 #tel: +49 0000 000000
 #tel_full: tel:+440000000000
