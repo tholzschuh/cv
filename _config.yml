@@ -7,7 +7,7 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://tholzschuh.github.io/uni
+url: http://tholzschuh.github.io/
 author: Tim Holzschuh
 
 # edit this section with your information
